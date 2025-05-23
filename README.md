@@ -1,6 +1,6 @@
 # EXPERIMENT-06-Data-Publishing-to-IoT-Broker-Using-MQTT3
- ## NAME: K.HEMANATH
- ## REGISTER NUMBER: 212223100012
+ ## NAME: ROGITH GANESH.R
+ ## REGISTER NUMBER: 212223100046
  ## DEPARTMENT: CSE(CYBERSECURITY)
  ## YEAR: 2ND
  ## Aim:
@@ -93,6 +93,7 @@ client.disconnect()
 
 # Print confirmation message
 print(f"Message '{message}' published to topic '{topic}'")
+
 ```
 
 
